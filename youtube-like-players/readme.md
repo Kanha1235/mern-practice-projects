@@ -1,4 +1,4 @@
-# YouTube Like Players &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![View it live](https://kanha1235.github.io/mern-practice-projects/youtube-like-players/)]()
+# YouTube Like Players &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![View it live](https://img.shields.io/badge/Live-Demo-blue)](https://kanha1235.github.io/mern-practice-projects/youtube-like-players/)
 
 A lightweight, responsive **mini video‑playlist player** built with plain HTML/CSS/JS. It renders a playlist from a small array, swaps the main player on click, and highlights the active item.
 

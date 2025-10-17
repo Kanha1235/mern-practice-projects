@@ -8,7 +8,7 @@ A living playground for all my mini‑projects, experiments, and UI/algorithm de
 
 ## 🔗 Quick Live Gallery
 
-* [YouTube Like Player]()
+* [YouTube Like Player](https://kanha1235.github.io/mern-practice-projects/youtube-like-players/)
 <!-- * [Password Generator + Secure Vault (MVP)](https://<your-username>.github.io/practice_projects/password-vault/)
 * [Spell Correction using Ternary Search Tree](https://<your-username>.github.io/practice_projects/spell-correction-tst/)
 * [YouTube‑like Video Player](https://<your-username>.github.io/practice_projects/youtube-like-player/)

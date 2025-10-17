@@ -100,7 +100,7 @@ nav { display: flex; justify-content: space-between; align-items: center; }
 ### Canvas Drawing Playground
 
 * **Story:** Built to practice hit‑testing, resize handles, and canvas text metrics.
-* **What you’ll see:** Drag/resize handles, centered shapes, dynamic scaling.
+* **What you’ll see:** Drag/resize handles, centered shapes, dynamic scaling
 * **Live:** [Open demo](https://<your-username>.github.io/practice_projects/canvas-drawing/) · **Code:** [/canvas-drawing](./canvas-drawing/)
 
 ### Font Size & Style Editor Demo
